@@ -5,7 +5,7 @@
 Built for the TetraNoodle AI Hackathon 2026 by Vamsi Siva Ganesh Seelam (Lovely Professional University, individual entry).
 
 - **Live demo:** https://scholarship-325287784.us-central1.run.app/
-- **Repository:** https://github.com/Svamsi2006/scholarship
+- **Repository:** https://github.com/SAMRATRAJ72/scholarship
 - **Demo video:** https://drive.google.com/file/d/1ja4TKoOi8uySdd762sRJtG75kUTIrYcY/view?usp=sharing
 
 ---
